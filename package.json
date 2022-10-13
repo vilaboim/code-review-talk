@@ -10,7 +10,7 @@
     "@slidev/cli": "^0.36.5",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*",
-    "slidev-theme-neon": "^0.0.1"
+    "slidev-theme-neon": "^0.1.0"
   },
   "devDependencies": {
     "playwright-chromium": "^1.27.1"
